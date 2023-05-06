@@ -5,17 +5,17 @@
 
 .header{
     background-color: #36bfff;
-    color: rgb(58, 126, 253)
-    display; flex :
-    justify-content; space-around :
-    align-items; center;
+    color: rgb(58, 126, 253) ;
+    display; flex : ;
+    justify-content: space-around :;
+    align-items: center
 }
  .cabeçalho img{
     width: 20%;
 }
 
 .cabeçalho-lista-item{
-    display: inline-block
+    display: inline-block;
     margin: 0 ;
 }
 
@@ -25,12 +25,12 @@ body{
 }
 
 h1{
-    text-align: center
+    text-align: center;
     font-size : 20px
 }
 
 p{
-    text-align: center
+    text-align: center;
     font-size : 20px
 }
 #mtl{
