@@ -4,8 +4,8 @@
 }
 
 .header{
-    background-color: #424E61;
-    color: white
+    background-color: #36bfff;
+    color: rgb(58, 126, 253)
     display; flex :
     justify-content; space-around :
     align-items; center;
