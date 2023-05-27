@@ -13,7 +13,7 @@
  .cabeçalho img{
     width: 20%;
     position: absolute;
-    
+
 
 }
 
@@ -24,7 +24,7 @@
 
 body{
     background: #05c8eb;
-    font-size: 25px;
+    font-size: 10px;
 }
 
 h1{
@@ -37,7 +37,7 @@ p{
    
 }
 #mtl{
-    "font-size: 20px"
+    "font-size: 10px"
 
 }
 em strong {
