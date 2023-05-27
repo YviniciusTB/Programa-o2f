@@ -12,8 +12,8 @@
 }
  .cabeçalho img{
     width: 20%;
-    position: absolute;
-    box-align :center;
+    position: center;
+    
 
 }
 
