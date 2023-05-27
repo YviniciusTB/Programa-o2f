@@ -24,7 +24,7 @@
 
 body{
     background: #05c8eb;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 h1{
@@ -37,7 +37,7 @@ p{
    
 }
 #mtl{
-    "font-size: 10px"
+    "font-size: 20px"
 
 }
 em strong {
@@ -49,5 +49,5 @@ em strong {
 }
 
 p{
-    font-size: 40px;
+    font-size: 15px;
 }
