@@ -46,6 +46,7 @@ em strong {
 .img{
     width: 100%;
     padding:0% ;
+    box-align :center;
 }
 
 p{
