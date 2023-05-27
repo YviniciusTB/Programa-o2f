@@ -13,7 +13,7 @@
  .cabeçalho img{
     width: 20%;
     position: absolute;
-    align-items: center;
+    box-align :center;
 
 }
 
