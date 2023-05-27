@@ -12,6 +12,9 @@
 }
  .cabeçalho img{
     width: 20%;
+    position: absolute;
+    
+
 }
 
 .cabeçalho-lista-item{
