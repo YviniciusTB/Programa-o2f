@@ -48,7 +48,7 @@ em strong {
     height: 633px;
     left: 123px;
     top: 215px;
-    align-items: center;
+    box-align: center;
 }
 
 
