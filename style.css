@@ -4,14 +4,14 @@
 }
 
 .header{
-    background-color: #000000;
-    color: rgb(58, 126, 253) ;
-    display; flex : ;
-    justify-content: space-around :;
-    align-items: center
+    background-color: #014152;
+    color: rgb(3, 43, 117) ;
+    display: flex  ;
+    justify-content: space-around ;
+    align-items: center;
 }
 
-}
+
 
 .cabeçalho-lista-item{
     display: inline-block;
@@ -19,7 +19,7 @@
 }
 
 body{
-    background: #000000;
+    background: #2e0f0f;
     font-size: 20px;
 }
 
@@ -33,7 +33,7 @@ p{
    
 }
 #mtl{
-    "font-size: 20px"
+    font-size: 20px";
 
 }
 em strong {
